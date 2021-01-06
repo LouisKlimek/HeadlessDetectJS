@@ -49,7 +49,7 @@ Logo made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">
 var headlessDetector = new HeadlessDetect();
 
 if(headlessDetector.getHeadlessScore() > 0.25){
-    console.log("Headless Browser detectet");
+    console.log("Headless Browser detected");
 }
 ```
 
