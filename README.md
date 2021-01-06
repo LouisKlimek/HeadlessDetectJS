@@ -37,7 +37,7 @@ Logo made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">
 
 ### Installation
 
-1. Get the `headlessDetect.js` file and put in your Project Folder.
+1. Get the `headlessDetect.js` file and put it in your Project Folder.
 
 3. Link to it in the HTML of your Website.
 ```
