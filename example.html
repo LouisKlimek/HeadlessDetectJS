@@ -1,0 +1,14 @@
+<html>
+
+<body>
+    
+</body>
+<script type="text/javascript" src="./headlessDetect.js"> </script>
+<script>
+    var headlessDetector = new HeadlessDetect();
+
+    if(headlessDetector.getHeadlessScore() > 0.25){
+        console.log("Headless Browser detectet");
+    }
+</script>
+</html>
