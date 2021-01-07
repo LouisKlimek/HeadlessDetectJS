@@ -31,25 +31,24 @@
 
 This JavaScript library is only going to test and provide a score for the likelihood of a user using a HEADLESS BROWSER and NOT BROWSER AUTOMATION in general.
 
-Logo made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
 <!-- GETTING STARTED -->
 ## Getting Started
 
 ### Installation
 
-1. Get the `headlessDetect.js` file and put it in your Project Folder.
+1. Get the `headlessDetect.js` file and put in your Project Folder.
 
-3. Link to it in the HTML of your Website.
+2. Link to it in the HTML of your Website.
 ```
 <script type="text/javascript" src="./headlessDetect.js"> </script>
 ```
 
-4. Construct a new Headless Detector and can call the `getHeadlessScore()` Function to see the likelihood of a user using a Headless Browser and then do with it whatever you want.
+3. Construct a new Headless Detector and can call the `getHeadlessScore()` Function to see the likelihood of a user using a Headless Browser and then do with it whatever you want.
 ```
 var headlessDetector = new HeadlessDetect();
 
 if(headlessDetector.getHeadlessScore() > 0.25){
-    console.log("Headless Browser detected");
+    console.log("Headless Browser detectet");
 }
 ```
 
