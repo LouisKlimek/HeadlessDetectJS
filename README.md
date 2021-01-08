@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/LouisKlimek/HeadlessDetectJS">
-    <img src="logo.png" alt="HeadlessDetectJS" width="80" height="80">
+    <h1 align="center">🐔</h1>
   </a>
 
   <h3 align="center">HeadlessDetectJS</h3>
@@ -31,7 +31,6 @@
 
 This JavaScript library is only going to test and provide a score for the likelihood of a user using a HEADLESS BROWSER and NOT BROWSER AUTOMATION in general.
 
-Logo made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
 <!-- GETTING STARTED -->
 ## Getting Started
 
