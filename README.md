@@ -1,11 +1,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/LouisKlimek/HeadlessDetectJS">
-    <h2 align="center">🐔</h2>
-  </a>
-
-  <h3 align="center">HeadlessDetectJS</h3>
+  
+  <a href="https://github.com/LouisKlimek/HeadlessDetectJS"><h3 align="center">🐔 HeadlessDetectJS</h3></a>
 
   <p align="center">
     A JavaScript library that provides a score for the likelihood of a user using a headless browser.
