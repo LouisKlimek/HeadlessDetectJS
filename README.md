@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/LouisKlimek/HeadlessDetectJS">
-    <h1 align="center">🐔</h1>
+    <h2 align="center">🐔</h2>
   </a>
 
   <h3 align="center">HeadlessDetectJS</h3>
