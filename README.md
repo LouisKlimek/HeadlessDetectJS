@@ -28,6 +28,8 @@
 
 This JavaScript library is only going to test and provide a score for the likelihood of a user using a HEADLESS BROWSER and NOT BROWSER AUTOMATION in general.
 
+<a href="https://piprogramming.org/articles/6-Ways-to-detect-a-headless-Browser-with-JavaScript--How-to-detect-a-Headless-Browser-0000000030.html"><p>Also check out this Article if you want to find out how this was build.</p></a>
+
 <!-- GETTING STARTED -->
 ## Getting Started
 
